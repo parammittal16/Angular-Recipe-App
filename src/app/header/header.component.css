@@ -1,0 +1,15 @@
+.navbar
+{
+	background-color: #0884cc;
+    opacity: 1;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:white;
+}
+a{
+  margin-left: 10px;
+  color:#ffffff;
+}
+a:active{
+  color:#011825;
+}
